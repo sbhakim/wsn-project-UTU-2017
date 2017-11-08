@@ -1,0 +1,5 @@
+[11:12:13 - main] [Cooja.java:1324] [INFO] - > Starting Cooja
+[11:12:13 - main] [Cooja.java:2865] [INFO] - External tools default settings: /external_tools_linux.config
+[11:12:13 - main] [Cooja.java:2895] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[11:12:13 - main] [Cooja.java:2299] [FATAL] - No read access to file: /home/user/contiki/examples-saf/my-project/ll.csc
+[11:12:36 - AWT-EventQueue-0] [Cooja.java:2324] [INFO] - Load command cancelled by user...
